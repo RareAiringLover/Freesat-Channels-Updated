@@ -5,8 +5,8 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_wales_digital.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 4 HD
-http://media-kings.xyz:8080/tek1/tek1/70?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 4 HD 
+http://media-kings.xyz:8080/tek1/tek1/54414?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 5 HD
 http://media-kings.xyz:8080/tek1/tek1/115?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="BBC One Scotland HD" tvg-name="BBC One Scotland HD" tvg-logo="https://s3.postimg.org/ltztuojqr/6y_QROLCn_400x400.png" group-title="BBC",BBC One Scotland HD
@@ -37,10 +37,10 @@ http://media-kings.xyz:8080/tek1/tek1/46?checkedby:hlscat.com
 http://media-kings.xyz:8080/tek1/tek1/31101?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5 Star HD
 http://media-kings.xyz:8080/tek1/tek1/86?checkedby:hlscat.com
-#EXTINF:-1,UK: Paramount Channel
-http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/12495
-#EXTINF:-1,UK: 5 SELECT
-http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/12493
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",PARAMOUNT
+http://mags.vip:2086/live/jav/jav123/66940.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5 SELECT
+http://mags.vip:2086/live/jav/jav123/66937.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS Drama HD
 http://media-kings.xyz:8080/tek1/tek1/67?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS Reality HD
@@ -69,8 +69,8 @@ http://media-kings.xyz:8080/tek1/tek1/74?checkedby:hlscat.com
 http://media-kings.xyz:8080/tek1/tek1/66?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Yesterday HD
 http://media-kings.xyz:8080/tek1/tek1/82?checkedby:hlscat.com
-#EXTINF:-1,UK: Really
-http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/4238
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",REALLY
+http://mags.vip:2086/live/jav/jav123/100024.ts?checkedby:hlscat.com
 #EXTINF:-1,UK: Forces TV
 http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/12535
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Quest HD
@@ -91,12 +91,12 @@ http://mags.vip:2086/live/jav/jav123/66946.ts?checkedby:hlscat.com
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB;US" tvg-logo="" group-title="News;Undefined",RT UK,RT UK (720p),RT UK (RU),RT UK (Russia)
 https://rt-uk.secure.footprint.net/1106.m3u8?checkedby:hlscat.com
-#EXTINF:-1,UK: CNN HD
-http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/4166
-#EXTINF:-1,UK: CNBC News
-http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/4165
-#EXTINF:-1,UK: Bloomberg HD
-http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/4154
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/10576?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNBC_News
+http://mhiptv.com:8888/Shehata123/S8855865588/4702?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Bloomberg HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/77431?checkedby:hlscat.com
 #EXTINF:-1,UK: NHK World TV
 http://odiniptv.com:8000/1001/1001/38948
 #EXTINF:-1,UK: TRT World HD
@@ -110,14 +110,14 @@ http://odiniptv.com:8000/1001/1001/39150
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
 #EXTINF:-1 tvg-id="CBeebies HD" tvg-name="CBeebies HD" tvg-logo="https://s3.postimg.org/718r6aq9v/CBeebies_svg.png" group-title="BBC",CBeebies HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
-#EXTINF:-1,UK: CITV
-http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/12521
-#EXTINF:-1,UK: POP
-http://epiciptvrestreamer.com:8000/tonio/tonio/38975?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CITV
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/48086?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP
+http://mags.vip:2086/live/miriam/miriam123/100043.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP Max HD
 http://media-kings.xyz:8080/tek1/tek1/103?checkedby:hlscat.com
-#EXTINF:-1,UK: Tiny Pop
-http://megatrade.ddns.net/8795449375/Jdbaj726283hshsjsb/31120
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TINY POP
+http://mags.vip:2086/live/jav/jav123/100022.ts?checkedby:hlscat.com
 #EXTINF:-1,UK: GOD TV
 http://odiniptv.com:8000/1001/1001/38843
 #EXTINF:-1,BBC - Radio 1
