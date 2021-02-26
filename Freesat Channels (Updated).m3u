@@ -6,9 +6,9 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="united-kingdom" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/gb.png" group-title="united-kingdom",CHANNEL 4 (SD)
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59008.m3u8?checkedby:dailyfreeiptvlist.com
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49160?checkedby:hlscat.com
 #EXTINF:0 tvg-country="united-kingdom" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/gb.png" group-title="united-kingdom",CHANNEL 5 HD
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59007.m3u8?checkedby:dailyfreeiptvlist.com
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2012?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="BBC One Scotland HD" tvg-name="BBC One Scotland HD" tvg-logo="https://s3.postimg.org/ltztuojqr/6y_QROLCn_400x400.png" group-title="BBC",BBC One Scotland HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8
 #EXTINF:-1 tvg-id="BBC Four HD" tvg-name="BBC Four HD" tvg-logo="https://s3.postimg.org/odxup7toz/BBC_Four_HD_Logo_svg.png" group-title="BBC",BBC Four HD
@@ -18,13 +18,13 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 #EXTINF:-1 tvg-id="BBC Two  Northen Ireland" tvg-name="BBC Two Northen Ireland" tvg-logo="https://s4.postimg.org/kkaws79e5/BBC_Two_Northern_Ireland_svg.png" group-title="BBC",BBC Two Northen Ireland
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_northern_ireland_digital.m3u8
 #EXTINF:0 tvg-country="united-kingdom" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/gb.png" group-title="united-kingdom",ITV 2
-http://rv.therevenge.co:80/565656/565656/80339?checkedby:dailyfreeiptvlist.com
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/257?checkedby:hlscat.com
 #EXTINF:0 tvg-country="united-kingdom" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/gb.png" group-title="united-kingdom",ITV 3
-http://rv.therevenge.co:80/1234560/1234560/80338?checkedby:dailyfreeiptvlist.com
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/258?checkedby:hlscat.com
 #EXTINF:0 tvg-country="united-kingdom" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/gb.png" group-title="united-kingdom",ITV 4 HD
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58986.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="united-kingdom" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/gb.png" group-title="united-kingdom",ITV BE
-http://rv.therevenge.co:80/live/11223344/11223344/80336.m3u8?checkedby:dailyfreeiptvlist.com
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/259?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV Be
+http://tv.iptvpl.itv.world:8080/jlsddy44ji/hjgkuyh87686yh/6588?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="S4C" tvg-name="S4C" tvg-logo="https://s4.postimg.org/gczb0pjod/S4_C_logo_2014_svg.png" group-title="BBC",S4C
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/s4cpbs.m3u8
 #EXTINF:0 tvg-country="united-kingdom" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/gb.png" group-title="united-kingdom",E4
